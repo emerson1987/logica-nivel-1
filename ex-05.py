@@ -1,0 +1,6 @@
+print("Aluno(a)   nota")
+print("=======    ====")
+print("Aline      9,0 ")
+print("Mário      dez ")
+print("Sergio     4,5 ")
+print("Shirley    7,0 ")
